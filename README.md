@@ -43,6 +43,22 @@ What the objectives are for the future, which helps evaluate all areas.
 
 A top-down approach to all parts of the system 
 
+## Organization  
+
+### Top-tier 
+
+### Middle-tier
+
+### Teams 
+
+### Individuals
+
+### Technology Partners 
+
+## Way of Working 
+
+## DevOps and DevOps Toolchain
+
 ## Technology 
 
 ### Front-end 
@@ -60,22 +76,6 @@ A top-down approach to all parts of the system
 ### Infrastructure
 
 ### 3rd party providers 
-
-## Organization and teams 
-
-### Top-tier 
-
-### Middle-tier
-
-### Teams 
-
-### Individuals
-
-### Technology Partners 
-
-## Way of Working 
-
-## DevOps and DevOps Toolchain
 
 ## Product Roadmap 
 
