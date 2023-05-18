@@ -44,14 +44,13 @@ A top-down approach to all parts of the system
 
 ## Organization  
 
-### Top-tier 
+### Structure 
 
-### Middle-tier 
+- Top-tier 
+- Middle-tier 
+- Line-tier  
 
-### Line-tier  
-
-
-### Individuals
+### Members 
 
 ### Technology Partners 
 
