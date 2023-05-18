@@ -8,7 +8,7 @@ Most assignments start with a Due Diligence, either of technology only, or in a 
 - [Background](#background)
 - [Objectives](#objectives)
 - [Architecture](#architecture)
-- [Organization and teams](#organization-and-teams)
+- [Organization and teams](#organization)
 - [Way of Working](#way-of-working)
 - [DevOps and DevOps Toolchain](#devops-and-devops-toolchain)
 - [Technology](#technology)
