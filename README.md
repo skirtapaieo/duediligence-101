@@ -32,6 +32,12 @@ A top-down approach to all parts of the system
 
 ## Organization and teams 
 
+## Technology Partners 
+
+## Way of Working 
+
+## DevOps and DevOps Toolchain
+
 ## Product Roadmap 
 
 ## User Perspective 
