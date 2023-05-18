@@ -50,6 +50,14 @@ A top-down approach to all parts of the system
 - Middle-tier 
 - Line-tier  
 
+### Groups 
+
+### Modes 
+
+- Formation 
+- Operation 
+- Change 
+
 ### Tasks 
 
 ### Members 
