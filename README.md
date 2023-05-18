@@ -1,6 +1,6 @@
 # Due Diligence Framework
 
-Most assignments start with a Due Diligence, either of technology only, or in a broader sense. In some assignments the Due Diligence isn't done in the beginning, but rather in the middle or at the end. 
+Most assignments start with a Due Diligence, either of technology only, or in a broader sense. In some assignments the Due Diligence isn't done in the beginning, but rather in the middle or at the end. :rocket
 
 ## Table of Contents
 - [Methodology](#methodology)
