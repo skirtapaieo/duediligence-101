@@ -52,6 +52,16 @@ A top-down approach to all parts of the system
 
 ### Groups 
 
+Work groups motivated by projects: 
+- Teams (long)
+- Task Forces (middle) 
+- Crews (short) 
+
+Work groups motivated by member needs: 
+- Social clubs (long)
+- Activity Clubs (middle) 
+- Economic Clubs (short)
+
 ### Modes 
 
 - Formation 
