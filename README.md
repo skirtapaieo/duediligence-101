@@ -1,10 +1,6 @@
 # Due Diligence Framework
 
-Most assignments start with a Due Diligence, either of technology only, or in a broader sense. 
-
-## Background 
-
-Simply a historical review, including recent changes 
+Most assignments start with a Due Diligence, either of technology only, or in a broader sense. In some assignments the Due Diligence isn't done in the beginning, but rather in the middle or at the end. 
 
 ## Methodology 
 
@@ -17,6 +13,14 @@ Includes:
 ## Executive Summary 
 
 This usually starts with first impression and then an increasingly clear picture 
+
+## Background 
+
+Simply a historical review, including recent changes, which helps understand "why we are here"  
+
+## Objectives 
+
+What the objectives are for the future, which helps evaluate all areas.  
 
 ## Architecture 
 
@@ -45,4 +49,6 @@ A top-down approach to all parts of the system
 ## Cost Structure 
 
 ## Contracts 
+
+## Administration
 
