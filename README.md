@@ -52,6 +52,8 @@ A top-down approach to all parts of the system
 
 ### Teams 
 
+### Individuals
+
 
 ## Technology Partners 
 
