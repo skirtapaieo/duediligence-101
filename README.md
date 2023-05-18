@@ -2,6 +2,23 @@
 
 Most assignments start with a Due Diligence, either of technology only, or in a broader sense. In some assignments the Due Diligence isn't done in the beginning, but rather in the middle or at the end. 
 
+## Table of Contents
+- [Methodology](#methodology)
+- [Executive Summary](#executive-summary)
+- [Background](#background)
+- [Objectives](#objectives)
+- [Architecture](#architecture)
+- [Technology](#technology)
+- [Organization and teams](#organization-and-teams)
+- [Technology Partners](#technology-partners)
+- [Way of Working](#way-of-working)
+- [DevOps and DevOps Toolchain](#devops-and-devops-toolchain)
+- [Product Roadmap](#product-roadmap)
+- [User Perspective](#user-perspective)
+- [Cost Structure](#cost-structure)
+- [Contracts](#contracts)
+- [Administration](#administration)
+
 ## Methodology 
 
 Includes: 
