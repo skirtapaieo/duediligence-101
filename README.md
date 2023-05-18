@@ -26,21 +26,23 @@ What the objectives are for the future, which helps evaluate all areas.
 
 A top-down approach to all parts of the system 
 
+## Technology 
+
 ### Front-end 
 
-## Back-end 
+### Back-end 
 
-## Data 
+### Data Warehouse/Lake 
 
-## Machine Learning 
+### Machine Learning 
 
-## Model "Garden"
+### Model "Garden"
 
-## Edge-tier (IoT) 
+### Edge-tier (IoT) 
 
-## Infrastructure
+### Infrastructure
 
-## 3rd party providers 
+### 3rd party providers 
 
 ## Organization and teams 
 
