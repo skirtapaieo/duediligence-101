@@ -12,7 +12,7 @@ Includes:
 
 ## Executive Summary 
 
-This usually starts with first impression and then an increasingly clear picture 
+Helps give a summary of all the below topics  
 
 ## Background 
 
