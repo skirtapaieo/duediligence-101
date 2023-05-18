@@ -30,6 +30,8 @@ A top-down approach to all parts of the system
 
 ## Back-end 
 
+## Edge-tier (IoT) 
+
 ## Infrastructure
 
 ## 3rd party providers 
