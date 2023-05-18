@@ -46,9 +46,10 @@ A top-down approach to all parts of the system
 
 ### Top-tier 
 
-### Middle-tier
+### Middle-tier 
 
-### Teams 
+### Line-tier  
+
 
 ### Individuals
 
