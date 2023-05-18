@@ -46,6 +46,13 @@ A top-down approach to all parts of the system
 
 ## Organization and teams 
 
+### Top-tier 
+
+### Middle-tier
+
+### Teams 
+
+
 ## Technology Partners 
 
 ## Way of Working 
