@@ -8,7 +8,7 @@ Includes:
 - Focus - a top-down model of areas 
 - Scope - a document consisting of initial questions 
 - Approach - description of approach to the due diligence 
-- Objective - important to clarify the objective 
+- Objective - important to clarify why the due diligence is done 
 
 ## Executive Summary 
 
