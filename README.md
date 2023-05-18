@@ -30,6 +30,12 @@ A top-down approach to all parts of the system
 
 ## Back-end 
 
+## Data 
+
+## Machine Learning 
+
+## Model "Garden"
+
 ## Edge-tier (IoT) 
 
 ## Infrastructure
